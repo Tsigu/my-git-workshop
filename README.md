@@ -16,6 +16,7 @@ like GitHub too, format nicely as HTML.
 What does Git do when initialising a local repository?
 
 * It creates a '.git' directory with a database.
+* Never delete ".git" directory and change its name.
 
 
 ### Saving my changes
@@ -27,6 +28,8 @@ What does Git do when initialising a local repository?
 I want to remember:
 
 * *(New stuff you learned)*
+* ls
+* git
 
 
 ### So, what did change?
