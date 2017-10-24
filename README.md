@@ -30,6 +30,9 @@ I want to remember:
 * *(New stuff you learned)*
 * ls
 * git
+* cd 
+* cd .
+* and cd ..
 
 
 ### So, what did change?
